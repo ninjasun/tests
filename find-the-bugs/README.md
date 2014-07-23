@@ -1,4 +1,4 @@
-””# QA Test
+# QA Test
 
 ## Intro
 You will get access to two thrills.com accounts.
@@ -8,21 +8,23 @@ One of the accounts is a swedish user using `SEK` as currency, and the other is 
 
 ## Preparation
 
-1. Go to: [http://broken.staging.thrills.com/](http://broken.staging.thrills.com/).
+1. You need access to different browsers, at least Chrome, Firefox and IE 10 and 11.
+
+2. Go to: [http://broken.staging.thrills.com/](http://broken.staging.thrills.com/).
 
     ![.htaccess](images/qa-htaccess.png)
 
-2. Enter the following details to get access to the site:
+3. Enter the following details to get access to the site:
 
     ```
     username: thrills
     password: flappybird
     ```
 
-3. Login with either the swedish or norwegian user.
+4. Login with either the swedish or norwegian user.
 
     ![login](images/qa-login.png)
-    
+
     Use the following details:
 
     *Swedish user:*
@@ -37,3 +39,25 @@ One of the accounts is a swedish user using `SEK` as currency, and the other is 
     username: findthebugs-no
     password: l3tm31n
     ```
+
+5. Click on the username in the top right corner to open the deposit modal.
+    ![modal](images/qa-deposit-modal.png)
+
+
+## The objective
+
+Your mission, should you choose to accept it:
+
+1. Find the bugs in the deposit flow:
+
+    ![modal](images/qa-deposit-window.png)
+
+    Rest assured, there will be browser specific errors.
+
+2. Find out as much as possible about the bugs, and document them.
+
+3. Create regression-test criteria for the entire deposit flow.
+
+4. Send the regression-test criteria with the bug reports to `ifoundthebugs@thrills.com`
+
+*Good luck!*
