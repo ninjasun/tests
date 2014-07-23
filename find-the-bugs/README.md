@@ -21,7 +21,7 @@ One of the accounts is a swedish user using `SEK` as currency, and the other is 
     password: flappybird
     ```
 
-4. Start with loging in with either the swedish or norwegian user.
+4. Start with logging in with either the swedish or norwegian user.
 
     ![login](images/qa-login.png)
 
