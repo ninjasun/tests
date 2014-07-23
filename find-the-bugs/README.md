@@ -14,14 +14,14 @@ One of the accounts is a swedish user using `SEK` as currency, and the other is 
 
     ![.htaccess](images/qa-htaccess.png)
 
-3. Enter the following details to get access to the site:
+3. Enter the following details to  access to the site:
 
     ```
     username: thrills
     password: flappybird
     ```
 
-4. Login with either the swedish or norwegian user.
+4. Start with loging in with either the swedish or norwegian user.
 
     ![login](images/qa-login.png)
 
@@ -52,11 +52,11 @@ Your mission, should you choose to accept it:
 
     ![modal](images/qa-deposit-window.png)
 
-    Rest assured, there will be browser specific errors.
+    Rest assured, there will be both browser specific errors, as well as account specific errors.
 
 2. Find out as much as possible about the bugs, and document them.
 
-3. Create regression-test criteria for the entire deposit flow.
+3. Using your best judgement, create regression-test criteria for the entire deposit flow.
 
 4. Send the regression-test criteria with the bug reports to `ifoundthebugs@thrills.com`
 
