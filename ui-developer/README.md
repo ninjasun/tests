@@ -1,6 +1,10 @@
 # UI Developer test
+[Intro](intro)
 
+[Preparation and guides](preparation-and-guides)
 ## Intro
+
+
 You will be presented with two images, one of a registration form for desktop, and on for mobile.
 
 ## Preparation and guides
@@ -24,11 +28,18 @@ Your mission, should you choose to accept it:
 4. Even though its a simple page, please structure files and code as if it was a big project
 5. Add comments to your test, explaining your tools, ideas and conclusions.
 
+### Desktop version
+![Desktop](images/desktop.jpg)
+
+### Mobile version
+![Mobile](images/mobile.jpg)
+
 ## What we are looking for
 1. Pixel perfection
 2. We want to see how you work with responsive designs
 3. We will analyse your file and code structure
 4. We will see how you work with differences between mobile and desktop
 5. We will see which tools you use, and how you use them.
+
 
 **Good Luck! :-)**
