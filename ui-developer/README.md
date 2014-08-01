@@ -1,7 +1,13 @@
 # UI Developer test
-[Intro](intro)
 
-[Preparation and guides](preparation-and-guides)
+* [Intro](#intro)
+* [Preparation and guides](#preparation-and-guides)
+* [The objective](#the-objective)
+    * [Desktop version](#desktop-version)
+    * [Mobile version](#mobile-version)
+* [What we are looking for](#what-we-are-looking-for)
+
+
 ## Intro
 
 
