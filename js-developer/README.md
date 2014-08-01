@@ -25,3 +25,6 @@ Do not use jQuery.
 
 Even though this is a small project, structure and architecture should mimic a bigger project.
 Use all the power of angular.js, but code-wise it should be as little dependent on it as possible.
+
+
+**Good Luck! :-)**

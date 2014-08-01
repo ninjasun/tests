@@ -31,4 +31,4 @@ Your mission, should you choose to accept it:
 4. We will see how you work with differences between mobile and desktop
 5. We will see which tools you use, and how you use them.
 
-Good Luck!
+**Good Luck! :-)**

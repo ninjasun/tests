@@ -60,4 +60,4 @@ Your mission, should you choose to accept it:
 
 4. Send the regression-test criteria with the bug reports to `ifoundthebugs@thrills.com`
 
-*Good luck!*
+**Good Luck! :-)**
