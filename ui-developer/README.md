@@ -24,7 +24,6 @@ Your mission, should you choose to accept it:
 
 ## What we are looking for
 1. Pixel perfection
-1. We want to see how you work with responsive designs
-2. We will analyse your file and code structure
-3. We will see how you work with differences between mobile and desktop
-4.
+2. We want to see how you work with responsive designs
+3. We will analyse your file and code structure
+4. We will see how you work with differences between mobile and desktop
