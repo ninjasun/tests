@@ -49,6 +49,6 @@ Your mission, should you choose to accept it:
 5. We will see which tools you use, and how you use them.
 
 ## Assets
-[Click here to download images](assets.zip)
+[Click here to download images](https://dl.dropbox.com/s/05jpdkn1adm6xy2/assets.zip)
 
 **Good Luck! :-)**
