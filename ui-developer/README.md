@@ -6,6 +6,7 @@
     * [Desktop version](#desktop-version)
     * [Mobile version](#mobile-version)
 * [What we are looking for](#what-we-are-looking-for)
+* [Assets](#assets)
 
 
 ## Intro
@@ -47,5 +48,7 @@ Your mission, should you choose to accept it:
 4. We will see how you work with differences between mobile and desktop
 5. We will see which tools you use, and how you use them.
 
+## Assets
+[Click here to download images](assets.zip)
 
 **Good Luck! :-)**
