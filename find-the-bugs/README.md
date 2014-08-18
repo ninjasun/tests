@@ -48,7 +48,7 @@ One of the accounts is a swedish user using `SEK` as currency, and the other is 
 
 Your mission, should you choose to accept it:
 
-1. Find the bugs in the deposit flow:
+1. Find the bugs in the Credit card deposit flow:
 
     ![modal](images/qa-deposit-window.png)
 
