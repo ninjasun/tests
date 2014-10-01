@@ -56,8 +56,10 @@ Your mission, should you choose to accept it:
 
 2. Find out as much as possible about the bugs, and document them.
 
-3. Using your best judgement, create regression-test criteria for the entire deposit flow _for credit cards_.
+3. Mind the provided credit cards are fake and therefore transactions with their use obviously won't result in successful deposit.
 
-4. Send the regression-test criteria with the bug reports to `ifoundthebugs@thrills.com`
+4. Using your best judgement, create regression-test criteria for the entire deposit flow _for credit cards_.
+
+5. Send the regression-test criteria with the bug reports to `ifoundthebugs@thrills.com`
 
 **Good Luck! :-)**
