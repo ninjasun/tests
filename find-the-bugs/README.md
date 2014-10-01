@@ -56,7 +56,7 @@ Your mission, should you choose to accept it:
 
 2. Find out as much as possible about the bugs, and document them.
 
-3. Mind the provided credit card numbers are fake and transactions with their use obviously won't result in successful deposit. Transaction result therefore shouldn't be your concern.
+3. Mind the provided credit card numbers are fake and transactions with their use won't result in successful deposit. Transaction result therefore isn't something that should be considered.
 
 4. Using your best judgement, create regression-test criteria for the entire deposit flow _for credit cards_.
 
